@@ -1,8 +1,7 @@
-# Customize Plus Builder [![by KnitKode](https://img.shields.io/badge/by-KnitKode-lightgrey.svg?style=social)]()
+# Customize Plus Builder [![by KnitKode](https://img.shields.io/badge/by-KnitKode-lightgrey.svg?style=social)](https://knitkode.com)
 
-[![GitHub release](https://img.shields.io/github/release/knitkode/customize-plus-builder.svg)]()
+[![GitHub release](https://img.shields.io/github/release/knitkode/customize-plus-builder.svg)](https://github.com/knitkode/customize-plus-builder/releases/latest)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/89ad12582c4a4f84aaa739b2b838b964)](https://www.codacy.com/app/knitkode/customize-plus-builder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=knitkode/customize-plus-builder&amp;utm_campaign=Badge_Grade)
-[![devDependency Status](https://david-dm.org/knitkode/customize-plus-builder/dev-status.svg)](https://david-dm.org/knitkode/customize-plus-builder#info=devDependencies)
 
 > Building Theme options for the WordPress Customizer has never been easier.
 
@@ -38,6 +37,14 @@ Anyone is welcome to contribute, there are various ways you can do it:
 2. Provide feedback and suggestions on [enhancements](https://github.com/knitkode/customize-plus-builder/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open)
 
 
+Development
+---------------
+
+## Consider `customize-plus` as a dependency
+
+- To include `customize-plus` in dev environment `cd` to `customize-plus` root project folder and run `npm-link`, then `cd` in this project root folder and run `npm link @knitkode/customize-plus`.
+
+
 Donate
 ---------------
 [![Liberapay](https://img.shields.io/liberapay/KnitKode/receives.svg)](https://liberapay.com/KnitKode/donate)
@@ -49,4 +56,4 @@ License
 
 
 ---------------
-:registered: KnitKode 2017 | [knitkode.com](https://knitkode.com) | dev@knitkode.com
+:registered: KnitKode 2018 | [knitkode.com](https://knitkode.com) | dev@knitkode.com
